@@ -18,7 +18,7 @@ web-build/
 
 firebase
 
-ios
+ios/
 
 # Metro
 .metro-health-check*
